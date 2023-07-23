@@ -1,4 +1,4 @@
 # iconnect_ReactEcom
 This is the Ecommerce website in which we can create cards for product,After clicking the button the product details will be displayed.
-https://github.com/adityaaaj/iconnect_ReactEcom/assets/133089288/5d82fc67-4dd7-423c-a98c-3337bc1e343f
-https://github.com/adityaaaj/iconnect_ReactEcom/assets/133089288/1b54958e-32fe-44e1-ba09-bba6f09e77ad
+![photo1](https://github.com/adityaaaj/iconnect_ReactEcom/assets/133089288/496d7de7-bcfe-4ea5-a8ed-baae7bf28919)
+![photo2](https://github.com/adityaaaj/iconnect_ReactEcom/assets/133089288/4cde4337-86e8-409f-b07c-ce6f9b8d826b)
